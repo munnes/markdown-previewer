@@ -1,0 +1,62 @@
+#b {
+  margin: 0;
+   background-color:rgb(72, 61, 90);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size:14px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#editBox{
+    width:70%;
+    margin:2% auto;
+      height:40vh;
+}
+
+.box{
+    border:1px solid ;
+      box-shadow: 5px 10px 15px rgba(136, 129, 246,.5);
+}
+
+.head{
+    background-color:rgb(136, 129, 246);
+
+        margin:0 auto;
+         margin-bottom:0;
+         width:100%;
+         padding:1%;
+         color:white;
+}
+#prvBox{
+    width:90%;
+    margin:0 auto;
+    margin-top: 20px;
+ 
+     background-color:white;
+}
+.well{
+margin-bottom:0;
+}
+
+#editor{
+    overflow-y: scroll;
+     height:40vh;
+     font-size:14px;
+}
+.btn {
+ 
+    right: 2px;
+    left: 90%;
+ float:right;
+  
+}
+ #editBox .btn{
+ left: 80%;
+ }
